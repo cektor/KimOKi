@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: kimoki
+Version: 1.0
+Summary: This application is designed to retrieve IP addresses, scan open ports, and list devices on the LAN.
+Home-page: https://github.com/cektor/KimOKi
+Author: Fatih Önder
+Author-email: fatih@algyazilim.com

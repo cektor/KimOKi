@@ -1,0 +1,4 @@
+#!/bin/bash
+kimoki.py usr/bin/
+kimoki.desktop usr/share/applications/
+debian/kimokilo.png /usr/share/icons/hicolor/48x48/apps/

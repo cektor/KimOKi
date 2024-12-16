@@ -1,0 +1,10 @@
+Package: kimoki
+Version: 1.0-1
+Architecture: all
+Maintainer: Fatih ÖNDER <fatih@algyazilim.com>
+Installed-Size: 40
+Depends: python3, python3-pyqt5, python3-requests, python3-psutil, python3-netifaces, python3-scapy
+Section: network
+Priority: optional
+Homepage: https://algyazilim.com
+Description: Bu uygulama, IP adreslerini almak, açık portları taramak ve LAN'deki cihazları listelemek için tasarlanmıştır.

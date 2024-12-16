@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=KimOKi
+Comment=This application is designed to retrieve IP addresses, scan open ports and list devices on the LAN.
+Exec=sudo -E env XDG_RUNTIME_DIR=/tmp/runtime-root python3 /usr/bin/kimoki.py
+Icon=/usr/share/icons/hicolor/48x48/apps/kimokilo.png
+Terminal=true
+Type=Application
+Categories=Utility;Network;
+
+Name[tr_TR]=KimOKi

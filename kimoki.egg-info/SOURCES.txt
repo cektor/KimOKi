@@ -1,0 +1,9 @@
+kimoki.desktop
+kimokilo.png
+setup.py
+kimoki.egg-info/PKG-INFO
+kimoki.egg-info/SOURCES.txt
+kimoki.egg-info/dependency_links.txt
+kimoki.egg-info/entry_points.txt
+kimoki.egg-info/requires.txt
+kimoki.egg-info/top_level.txt
